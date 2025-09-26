@@ -71,4 +71,4 @@ This deployment transforms scattered data into a **single, reliable source of tr
 
 ## 📊 Conclusion
 
-By deploying **Metabase on AWS ECS with RDS**, we combine the simplicity and flexibility of open-source BI with the power, scalability, and security of AWS cloud infrastructure. This solution turns data chaos into clarity, and helps organizations become truly data-driven.
+By deploying **Metabase on AWS ECS with RDS**, I've combined the simplicity and flexibility of open-source BI with the power, scalability, and security of AWS cloud infrastructure. This solution turns data chaos into clarity, and helps organizations become truly data-driven.
